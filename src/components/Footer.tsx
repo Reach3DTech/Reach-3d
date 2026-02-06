@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> 3D
             </Link>
             <p className="text-gray-300 max-w-md">
-              The REACH 3D
+              Best In Class 3D Software
             </p>
 
 
@@ -117,7 +117,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; REACH Technologies 2025. All rights reserved.</p>
+          <p>&copy; REACH Technologies. All rights reserved.</p>
         </div>
       </div>
     </footer>
